@@ -137,7 +137,15 @@ To push new changes:
 git add .
 git commit -m "Update calculator app"
 git push
+git pull
 ```
+## Use Cases
+
+- Students can solve scientific + basic math quickly.
+- Useful for BMS calculations (percent, GT, repeated =).
+- Helps during business math and finance assignments.
+- Can be used by programmers for quick trigonometric checks.
+- Suitable for general desktop calculator replacement.
 
 ## Notes
 
