@@ -14,7 +14,7 @@ This project includes:
 
 ## Tech Stack
 
-- `Python 3`
+- `Python 3.11`
 - `PySide6`
 - `Git` and `GitHub`
 
